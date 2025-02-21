@@ -1,5 +1,5 @@
 # Sales-Dashboard
-![Coffee Background Banner (4)](smeeling-coffee-beans_900x_5148e663-e441-4642-af81-ade43296e6b5_900x.jpg)
+![Sales Background Banner (4)](istockphoto-1460419757-1024x1024.jpg)
 
 ## Overview : 
 The Sales Dashboard is a comprehensive visualization tool designed to analyze sales performance across various categories, profit trends, state-wise sales distribution, and customer engagement from 2014 to 2017. This dashboard provides key insights to help inform strategic decisions aimed at enhancing sales and optimizing customer relations.
