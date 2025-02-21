@@ -1,5 +1,5 @@
 # Sales-Dashboard
-<img src="./istockphoto-1460419757-1024x1024.jpg" width="600" height="600"/>&nbsp;
+<img src="./istockphoto-1460419757-1024x1024.jpg" width="600" height="400"/>&nbsp;
 ## Overview : 
 The Sales Dashboard is a comprehensive visualization tool designed to analyze sales performance across various categories, profit trends, state-wise sales distribution, and customer engagement from 2014 to 2017. This dashboard provides key insights to help inform strategic decisions aimed at enhancing sales and optimizing customer relations.
 
