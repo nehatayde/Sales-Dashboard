@@ -9,7 +9,7 @@ The Sales Dashboard is a comprehensive visualization tool designed to analyze sa
 
 
 ## Result and Insights :
--Phones (330,007.10) have the highest sales, surpassing Chairs (328,167.76), which was previously the top-selling item.	
+-Phones (330,007.10) have the highest sales, surpassing Chairs (328,167.76), which was previously the top-selling item.
 -Storage, Tables, and Binders also have significant sales figures.	
 -Lower-performing categories include Fasteners, Labels, Envelopes, and Art, indicating minimal sales in these product lines.	
 -office supplies and technology are both categories show a steady upward trend, 	
