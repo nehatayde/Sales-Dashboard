@@ -26,4 +26,4 @@ The Sales Dashboard is a comprehensive visualization tool designed to analyze sa
 The sales dashboard paints a comprehensive picture of sales performance across categories and territories. It indicates strong sales in technology and furniture, steady increase in customer numbers, and identifies key customers contributing to profits. This information can be leveraged to further enhance sales strategies and improve profitability across all categories.
 
 ## Dashboard :
-<img src="./Dashboard.png" width="3000" height="600"/>&nbsp;
+<img src="./Screenshot 2025-02-20 091438.png" width="3000" height="600"/>&nbsp;
