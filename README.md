@@ -7,7 +7,6 @@ The Sales Dashboard is a comprehensive visualization tool designed to analyze sa
 ## Tool used :
 <img src="./microsoft-excel.png" width="300" height="150"/>&nbsp;
 
-
 ## Result and Insights :
 - Phones (330,007.10) have the highest sales, surpassing Chairs (328,167.76), which was previously the top-selling item
 - Storage, Tables, and Binders also have significant sales figures.	
